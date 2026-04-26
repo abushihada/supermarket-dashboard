@@ -1,0 +1,501 @@
+order_id,return_reason
+11,Defective
+14,Defective
+20,Changed mind
+21,Late delivery
+22,Changed mind
+39,Late delivery
+49,Changed mind
+53,Late delivery
+75,Changed mind
+92,Changed mind
+97,Late delivery
+105,Changed mind
+109,Defective
+135,Changed mind
+148,Changed mind
+151,Late delivery
+153,Late delivery
+157,Changed mind
+165,Changed mind
+172,Changed mind
+175,Changed mind
+183,Changed mind
+197,Changed mind
+200,Changed mind
+204,Late delivery
+206,Changed mind
+236,Late delivery
+248,Late delivery
+249,Changed mind
+251,Late delivery
+260,Late delivery
+279,Defective
+280,Defective
+283,Late delivery
+284,Late delivery
+286,Late delivery
+297,Defective
+298,Changed mind
+313,Late delivery
+316,Defective
+320,Defective
+338,Defective
+363,Changed mind
+367,Defective
+402,Late delivery
+404,Late delivery
+413,Defective
+422,Changed mind
+424,Defective
+429,Defective
+445,Late delivery
+448,Changed mind
+453,Changed mind
+470,Changed mind
+486,Late delivery
+488,Defective
+503,Changed mind
+517,Late delivery
+521,Changed mind
+537,Late delivery
+559,Late delivery
+602,Defective
+620,Changed mind
+630,Defective
+641,Late delivery
+649,Defective
+653,Changed mind
+654,Changed mind
+662,Late delivery
+679,Defective
+681,Late delivery
+682,Defective
+686,Defective
+713,Changed mind
+722,Defective
+743,Late delivery
+763,Changed mind
+776,Defective
+778,Late delivery
+780,Late delivery
+785,Late delivery
+805,Changed mind
+817,Defective
+825,Defective
+826,Late delivery
+835,Changed mind
+857,Defective
+860,Late delivery
+867,Changed mind
+874,Changed mind
+884,Defective
+895,Changed mind
+927,Changed mind
+937,Changed mind
+959,Changed mind
+960,Late delivery
+962,Changed mind
+971,Changed mind
+980,Defective
+990,Changed mind
+992,Changed mind
+998,Defective
+1015,Late delivery
+1029,Late delivery
+1031,Defective
+1051,Changed mind
+1052,Changed mind
+1053,Late delivery
+1064,Late delivery
+1083,Changed mind
+1088,Changed mind
+1105,Changed mind
+1108,Defective
+1109,Changed mind
+1130,Changed mind
+1133,Late delivery
+1137,Late delivery
+1151,Defective
+1216,Defective
+1222,Late delivery
+1276,Changed mind
+1281,Changed mind
+1297,Late delivery
+1353,Defective
+1354,Late delivery
+1357,Defective
+1365,Late delivery
+1374,Defective
+1377,Defective
+1380,Defective
+1383,Changed mind
+1384,Late delivery
+1387,Late delivery
+1393,Late delivery
+1400,Defective
+1411,Changed mind
+1412,Defective
+1414,Late delivery
+1416,Changed mind
+1458,Late delivery
+1460,Late delivery
+1463,Defective
+1464,Changed mind
+1466,Defective
+1475,Changed mind
+1476,Defective
+1477,Changed mind
+1485,Late delivery
+1497,Defective
+1500,Changed mind
+1504,Defective
+1510,Late delivery
+1537,Changed mind
+1546,Defective
+1550,Late delivery
+1558,Changed mind
+1576,Defective
+1581,Defective
+1588,Changed mind
+1589,Defective
+1590,Changed mind
+1604,Defective
+1616,Late delivery
+1618,Defective
+1626,Changed mind
+1637,Changed mind
+1646,Defective
+1654,Defective
+1666,Defective
+1667,Late delivery
+1668,Defective
+1681,Changed mind
+1696,Defective
+1701,Late delivery
+1712,Changed mind
+1714,Changed mind
+1717,Changed mind
+1727,Defective
+1728,Defective
+1755,Changed mind
+1768,Defective
+1770,Changed mind
+1780,Late delivery
+1827,Changed mind
+1844,Defective
+1869,Late delivery
+1873,Changed mind
+1905,Late delivery
+1939,Changed mind
+1947,Late delivery
+1952,Late delivery
+1954,Changed mind
+1960,Defective
+1961,Late delivery
+1962,Defective
+1990,Changed mind
+1998,Late delivery
+2006,Defective
+2010,Defective
+2038,Changed mind
+2048,Changed mind
+2062,Defective
+2063,Late delivery
+2073,Defective
+2074,Changed mind
+2088,Defective
+2089,Changed mind
+2099,Defective
+2119,Defective
+2120,Late delivery
+2153,Changed mind
+2179,Defective
+2182,Late delivery
+2186,Changed mind
+2189,Changed mind
+2194,Changed mind
+2214,Defective
+2229,Changed mind
+2233,Defective
+2235,Late delivery
+2237,Defective
+2241,Defective
+2253,Defective
+2265,Changed mind
+2266,Changed mind
+2276,Defective
+2281,Defective
+2290,Defective
+2335,Late delivery
+2348,Changed mind
+2352,Changed mind
+2360,Changed mind
+2389,Late delivery
+2395,Changed mind
+2399,Late delivery
+2403,Changed mind
+2411,Defective
+2419,Defective
+2425,Late delivery
+2435,Late delivery
+2455,Changed mind
+2462,Changed mind
+2486,Late delivery
+2502,Defective
+2518,Late delivery
+2538,Changed mind
+2562,Changed mind
+2568,Changed mind
+2587,Late delivery
+2605,Late delivery
+2616,Late delivery
+2630,Defective
+2632,Late delivery
+2642,Changed mind
+2646,Changed mind
+2654,Defective
+2660,Changed mind
+2692,Changed mind
+2696,Defective
+2731,Changed mind
+2732,Changed mind
+2735,Defective
+2768,Late delivery
+2769,Defective
+2771,Changed mind
+2782,Changed mind
+2793,Defective
+2804,Defective
+2814,Late delivery
+2833,Late delivery
+2845,Changed mind
+2860,Late delivery
+2868,Late delivery
+2871,Changed mind
+2877,Defective
+2887,Changed mind
+2890,Changed mind
+2892,Defective
+2914,Late delivery
+2921,Late delivery
+2933,Changed mind
+2938,Defective
+2948,Late delivery
+2950,Changed mind
+2952,Changed mind
+2953,Defective
+2974,Defective
+2977,Changed mind
+2985,Changed mind
+3000,Changed mind
+3036,Changed mind
+3037,Late delivery
+3044,Late delivery
+3046,Defective
+3051,Late delivery
+3058,Late delivery
+3068,Late delivery
+3097,Changed mind
+3108,Late delivery
+3109,Changed mind
+3118,Late delivery
+3124,Late delivery
+3127,Late delivery
+3143,Late delivery
+3155,Changed mind
+3156,Changed mind
+3173,Defective
+3184,Late delivery
+3233,Late delivery
+3247,Defective
+3252,Late delivery
+3275,Defective
+3277,Defective
+3287,Defective
+3289,Defective
+3298,Late delivery
+3303,Defective
+3304,Defective
+3315,Defective
+3327,Changed mind
+3328,Late delivery
+3331,Defective
+3339,Defective
+3357,Changed mind
+3362,Defective
+3385,Late delivery
+3394,Late delivery
+3402,Late delivery
+3419,Changed mind
+3424,Defective
+3431,Late delivery
+3439,Late delivery
+3450,Late delivery
+3451,Late delivery
+3468,Late delivery
+3479,Changed mind
+3487,Late delivery
+3506,Late delivery
+3518,Defective
+3519,Late delivery
+3525,Late delivery
+3527,Late delivery
+3538,Changed mind
+3539,Defective
+3545,Late delivery
+3551,Changed mind
+3558,Defective
+3588,Defective
+3607,Late delivery
+3611,Changed mind
+3612,Changed mind
+3616,Late delivery
+3633,Late delivery
+3636,Late delivery
+3641,Defective
+3659,Changed mind
+3669,Changed mind
+3691,Changed mind
+3692,Late delivery
+3720,Late delivery
+3724,Defective
+3735,Late delivery
+3745,Late delivery
+3749,Late delivery
+3759,Defective
+3765,Late delivery
+3770,Changed mind
+3779,Late delivery
+3784,Late delivery
+3787,Changed mind
+3789,Changed mind
+3800,Defective
+3815,Defective
+3819,Changed mind
+3821,Defective
+3822,Changed mind
+3825,Late delivery
+3835,Late delivery
+3838,Late delivery
+3846,Defective
+3870,Changed mind
+3903,Defective
+3914,Changed mind
+3923,Late delivery
+3924,Late delivery
+3930,Late delivery
+3935,Changed mind
+3941,Defective
+3957,Defective
+3970,Changed mind
+3971,Defective
+3976,Late delivery
+3995,Late delivery
+3997,Changed mind
+3998,Late delivery
+4001,Defective
+4018,Late delivery
+4022,Late delivery
+4025,Defective
+4030,Defective
+4054,Defective
+4066,Changed mind
+4076,Defective
+4092,Late delivery
+4099,Defective
+4111,Changed mind
+4121,Changed mind
+4123,Changed mind
+4129,Changed mind
+4133,Changed mind
+4156,Changed mind
+4160,Changed mind
+4161,Changed mind
+4162,Changed mind
+4208,Changed mind
+4212,Late delivery
+4213,Changed mind
+4225,Defective
+4226,Late delivery
+4247,Late delivery
+4248,Late delivery
+4250,Defective
+4272,Changed mind
+4280,Late delivery
+4281,Changed mind
+4290,Changed mind
+4298,Late delivery
+4305,Changed mind
+4309,Late delivery
+4310,Changed mind
+4313,Late delivery
+4315,Late delivery
+4342,Defective
+4348,Defective
+4354,Changed mind
+4374,Changed mind
+4377,Late delivery
+4388,Late delivery
+4394,Late delivery
+4418,Defective
+4423,Late delivery
+4427,Changed mind
+4433,Changed mind
+4462,Defective
+4482,Changed mind
+4490,Late delivery
+4495,Defective
+4496,Late delivery
+4506,Late delivery
+4518,Defective
+4523,Late delivery
+4532,Late delivery
+4537,Changed mind
+4552,Late delivery
+4575,Late delivery
+4577,Late delivery
+4579,Changed mind
+4582,Defective
+4594,Defective
+4598,Changed mind
+4644,Defective
+4649,Defective
+4662,Changed mind
+4666,Late delivery
+4678,Defective
+4679,Defective
+4700,Late delivery
+4709,Defective
+4718,Changed mind
+4728,Changed mind
+4732,Late delivery
+4737,Late delivery
+4750,Defective
+4756,Late delivery
+4769,Changed mind
+4772,Defective
+4778,Defective
+4794,Late delivery
+4797,Defective
+4802,Defective
+4806,Defective
+4811,Defective
+4822,Changed mind
+4828,Changed mind
+4839,Late delivery
+4840,Changed mind
+4845,Late delivery
+4854,Defective
+4862,Changed mind
+4863,Changed mind
+4873,Defective
+4889,Late delivery
+4897,Changed mind
+4911,Changed mind
+4913,Defective
+4944,Late delivery
+4972,Changed mind
+4977,Defective
+4985,Late delivery
+4986,Changed mind
